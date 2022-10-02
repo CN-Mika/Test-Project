@@ -1,2 +1,2 @@
-# Test-Project
+# MyReactApp
 Created with CodeSandbox
